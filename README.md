@@ -1,8 +1,11 @@
 
 ##  NOW COMPATIBLE WITH ARCH LINUX
 ``
-run
-sh./archin.sh``
+run below mentioned command to install dependencies for arch based distros like manjaro and parrotsec OS
+bash ./archin.sh``
+
+``run below mentioned command to install dependencies for arch based distros like manjaro and parrotsec OS
+./debin.sh``
 
 ``1 🛑 The best possible thing you can do is edit bloop.lst with your own password guesses. `` 
 ``2 🛑 Do not create bloop.lst file with less than 101 entries``  
