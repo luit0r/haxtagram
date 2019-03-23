@@ -4,8 +4,7 @@
 run below mentioned command to install dependencies for arch based distros like manjaro and parrotsec OS
 bash ./archin.sh``
 
-``run below mentioned command to install dependencies for arch based distros like manjaro and parrotsec OS
-./debin.sh``
+Run ./debin.sh to install dependencies on debian based distros or distros that uses apt package manager (Ubuntu, Kali, Mint, Elementary, Zorin)
 
 ``1 🛑 The best possible thing you can do is edit bloop.lst with your own password guesses. `` 
 ``2 🛑 Do not create bloop.lst file with less than 101 entries``  
