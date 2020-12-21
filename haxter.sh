@@ -154,7 +154,7 @@ printf "\e[1;92mOK!\e[0m\n"
 let checkcount++
 fi
 
-if [[ $checkcount != 3 ]]; then
+if [[ $checkcount != 2 ]]; then
 printf "\e[1;91mAll TOR connection are reqired to be Up and Running. Goodbye user\e[0m\n"
 exit 1
 fi
